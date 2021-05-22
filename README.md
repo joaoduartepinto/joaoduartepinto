@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Java & Javascript
 
 - 📫 How to reach me:
-  - email: joaoduartepinto@outlook.com
-  - personal site: www.joaoduartepinto.com
+  - Email: joaoduartepinto@outlook.com
+  - Personal site: www.joaoduartepinto.com
+  - LinkedIn: www.linkedin.com/in/joaoduartepinto/
+  - Medium: https://joaoduartepinto.medium.com
 
 <!---
 joaoduartepinto/joaoduartepinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
